@@ -1,4 +1,8 @@
 
+<h1>Adapted from Han Xiao's <a href="https://github.com/hanxiao/bert-as-service">bert-as-service</a> for TF2</h1>
+<p>
+  This is an update on bert-as-service for TF2. The reason for this is bert-as-service project doesn't seem to have much activity lately on commits.
+</p>
 <h2 align="center">Are you looking for X-as-service? Try <a href="https://github.com/jina-ai/jina">Jina</a>!</h2>
 <h4 align="center">where X can be albert, pytorch-transformer, vgg, resnet, videobert, or <b>ANY</b> deep learning representation model?</h4>
 <table>
